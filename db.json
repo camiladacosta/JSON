@@ -1,0 +1,12 @@
+{
+    "agenda": [
+    {"id": 1, "nome": "Ana", "telefone":""},
+    {"id": 2, "nome": "Ana2", "telefone":""},
+    {"id": 3, "nome": "Ana3", "telefone":""}
+    ],
+    "adicionais":[
+    {"id": 1, "email": "teste@gmail.com"},
+    {"id": 2, "email": "teste2@gmail.com"},
+    {"id": 3, "email": "teste@3gmail.com"}
+    ]
+ }
