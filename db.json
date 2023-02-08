@@ -1,45 +1,47 @@
-{
-"nome":"Ana",
-"ano_nascimento": 1984,
-"notas":{
-   "n1": 7,
-   "n2": 5,
-   "n3": 4
-  }
-},
-{
-"nome":"Camila",
-"ano_nascimento": 1992,   
-"notas":{
-   "n1": 7,
-   "n2": 8,
-   "n3": 9
-  }
-},
-{
-"nome":"Raul",
-"ano_nascimento": 1993,   
-"notas":{
-   "n1": 7,
-   "n2": 8,
-   "n3": 10
-  }
-},
-{
-"nome":"Jorge",
-"ano_nascimento": 1972,   
-"notas":{
-   "n1": 7,
-   "n2": 8,
-   "n3": 8
-  }
-},
-{
-"nome":"João",
-"ano_nascimento": 1992,   
-"notas":{
-   "n1": 6,
-   "n2": 8,
-   "n3": 9
-  }
-}
+[
+   {
+   "nome":"Ana",
+   "ano_nascimento": 1984,
+   "notas":{
+      "n1": 7,
+      "n2": 5,
+      "n3": 4
+     }
+   },
+   {
+   "nome":"Camila",
+   "ano_nascimento": 1992,   
+   "notas":{
+      "n1": 7,
+      "n2": 8,
+      "n3": 9
+     }
+   },
+   {
+   "nome":"Raul",
+   "ano_nascimento": 1993,   
+   "notas":{
+      "n1": 7,
+      "n2": 8,
+      "n3": 10
+     }
+   },
+   {
+   "nome":"Jorge",
+   "ano_nascimento": 1972,   
+   "notas":{
+      "n1": 7,
+      "n2": 8,
+      "n3": 8
+     }
+   },
+   {
+   "nome":"João",
+   "ano_nascimento": 1992,   
+   "notas":{
+      "n1": 6,
+      "n2": 8,
+      "n3": 9
+     }
+   }
+]
